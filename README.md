@@ -14,7 +14,7 @@
 
 📖 Certifications in Kotlin, Android Development, Front-End Development and Python.
 
-:outbox_tray: 2022 Goals: Having the opportunity to show my love for technology by working as a developer...
+
 
  
 

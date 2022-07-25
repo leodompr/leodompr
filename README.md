@@ -42,8 +42,4 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodompr&layout=compact&langs_count=7&theme=onedark"/>
 </div>
  
- ###
- 
-<img href="https://raw.githubusercontent.com/leodompr/leodompr/blob/output/snake.svg" alt="Snake animation" />
 
-###

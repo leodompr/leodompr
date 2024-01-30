@@ -6,7 +6,7 @@
 
  
 
-📱 I'm Android Developer!
+📱 I'm Mobile Developer!
 
 :house_with_garden: I’m from Brazil.
 
